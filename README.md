@@ -8,7 +8,7 @@ A Python library for Brother P-touch label printers.
 
 ## Features
 
-- Support for Brother P-touch label printers (PT-E550W, PT-P710BT, PT-P750W, PT-P900, PT-P900W, PT-P910BT, PT-P950NW)
+- Support for Brother P-touch label printers (PT-E550W, **PT-P710BT**, PT-P750W, PT-P900, PT-P900W, PT-P910BT, PT-P950NW)
 - Network (TCP/IP) and USB connections
 - Text labels with customizable fonts and alignment
 - Image label printing
